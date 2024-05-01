@@ -1,0 +1,4085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.098141, 57.14824]
+      },
+      "properties": {
+        "Store No.": 445,
+        "Name": "Primark Aberdeen",
+        "Street": "78-84 Union Street",
+        "City": "Aberdeen",
+        "Country": "Scotland",
+        "Zip_Code": "AB10 1HH",
+        "Address": "78-84 Union Street, Aberdeen, Scotland, AB10 1HH",
+        "Phone": "01224 591261",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Aberdeen/78-84-union-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/78-84+Union+Street,+Aberdeen,+Scotland,+AB10+1HH,+UK/",
+        "Year_Opened": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.63054, 55.460258]
+      },
+      "properties": {
+        "Store No.": 446,
+        "Name": "Primark Ayr",
+        "Street": "98-100 High Street",
+        "City": "Ayr",
+        "Country": "Scotland",
+        "Zip_Code": "KA7 1PJ",
+        "Address": "98-100 High Street, Ayr, Scotland, KA7 1PJ",
+        "Phone": "01292 272024",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 12:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Ayr/98-100-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/98-100+High+Street,+Ayr,+Scotland,+KA7+1PJ,+UK/",
+        "Year_Opened": 2017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.279192, 54.860045]
+      },
+      "properties": {
+        "Store No.": 447,
+        "Name": "Primark Ballymena",
+        "Street": "Fairhill Shopping Centre",
+        "City": "Ballymena",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT43 6UF",
+        "Address": "Fairhill Shopping Centre, Ballymena, Northern Ireland, BT43 6UF",
+        "Phone": "028 2565 5178",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 17:30 | sunday :- 13:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Ballymena/fairhill-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Fairhill+Shopping+Centre,+Ballymena,+Northern+Ireland,+BT43+6UF,+UK/",
+        "Year_Opened": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.333574, 52.06033]
+      },
+      "properties": {
+        "Store No.": 448,
+        "Name": "Primark Banbury",
+        "Street": "44-46 Castle Quay Shopping Centre",
+        "City": "Banbury",
+        "Country": "England",
+        "Zip_Code": "OX16 5UP",
+        "Address": "44-46 Castle Quay Shopping Centre, Banbury, England, OX16 5UP",
+        "Phone": "01295 268032",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Banbury/44-46-castle-quay-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/44-46+Castle+Quay+Shopping+Centre,+Banbury,+England,+OX16+5UP,+UK/",
+        "Year_Opened": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.476017, 53.553505]
+      },
+      "properties": {
+        "Store No.": 449,
+        "Name": "Primark Barnsley",
+        "Street": "Alhambra Shopping Centre",
+        "City": "Barnsley",
+        "Country": "England",
+        "Zip_Code": "S70 1SB",
+        "Address": "Alhambra Shopping Centre, Barnsley, England, S70 1SB",
+        "Phone": "01226 202688",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Barnsley/alhambra-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Alhambra+Shopping+Centre,+Barnsley,+England,+S70+1SB,+UK/",
+        "Year_Opened": 2015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.049632, 51.080898]
+      },
+      "properties": {
+        "Store No.": 450,
+        "Name": "Primark Barnstaple",
+        "Street": "Units 8-9 Green Lanes Shopping Centre",
+        "City": "Barnstaple",
+        "Country": "England",
+        "Zip_Code": "EX31 1UJ",
+        "Address": "Units 8-9 Green Lanes Shopping Centre, Barnstaple, England, EX31 1UJ",
+        "Phone": "01271 377222",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Barnstaple/units-8-9-green-lanes-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Units+8-9+Green+Lanes+Shopping+Centre,+Barnstaple,+England,+EX31+1UJ,+UK/",
+        "Year_Opened": 2017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.4711, 51.5691]
+      },
+      "properties": {
+        "Store No.": 451,
+        "Name": "Primark Basildon",
+        "Street": "1 East Walk",
+        "City": "Basildon",
+        "Country": "England",
+        "Zip_Code": "SS14 1HE",
+        "Address": "1 East Walk, Basildon, England, SS14 1HE",
+        "Phone": "01268 288366",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Basildon/1-east-walk",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/1+East+Walk,+Basildon,+England,+SS14+1HE,+UK/",
+        "Year_Opened": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0871, 51.2626]
+      },
+      "properties": {
+        "Store No.": 452,
+        "Name": "Primark Basingstoke",
+        "Street": "28-29 Hampstead House, Festival Place",
+        "City": "Basingstoke",
+        "Country": "England",
+        "Zip_Code": "RG21 7LG",
+        "Address": "28-29 Hampstead House, Festival Place, Basingstoke, England, RG21 7LG",
+        "Phone": "01256 318198",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Basingstoke/28-29-hampstead-house,-festival-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/28-29+Hampstead+House,+Festival+Place,+Basingstoke,+England,+RG21+7LG,+UK/",
+        "Year_Opened": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.35705, 51.3805]
+      },
+      "properties": {
+        "Store No.": 453,
+        "Name": "Primark Bath",
+        "Street": "Southgate Centre",
+        "City": "Bath",
+        "Country": "England",
+        "Zip_Code": "BA1 1AQ",
+        "Address": "Southgate Centre, Bath, England, BA1 1AQ",
+        "Phone": "01225 462162",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bath/southgate-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Southgate+Centre,+Bath,+England,+BA1+1AQ,+UK/",
+        "Year_Opened": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.477646, 52.139046]
+      },
+      "properties": {
+        "Store No.": 454,
+        "Name": "Primark Bedford",
+        "Street": "18-22 Midland Road",
+        "City": "Bedford",
+        "Country": "England",
+        "Zip_Code": "MK40 1PS",
+        "Address": "18-22 Midland Road, Bedford, England, MK40 1PS",
+        "Phone": "01234 351721",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Bedford/18-22-midland-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/18-22+Midland+Road,+Bedford,+England,+MK40+1PS,+UK/",
+        "Year_Opened": 2012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.936416, 54.596003]
+      },
+      "properties": {
+        "Store No.": 455,
+        "Name": "Primark Belfast - Donegall Place",
+        "Street": "Donegall Place",
+        "City": "Belfast",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT1 5BA",
+        "Address": "Donegall Place, Belfast, Northern Ireland, BT1 5BA",
+        "Phone": "028 9023 3986",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:30 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Belfast/donegall-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Donegall+Place,+Belfast,+Northern+Ireland,+BT1+5BA,+UK/",
+        "Year_Opened": 2019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.148515, 51.464789]
+      },
+      "properties": {
+        "Store No.": 456,
+        "Name": "Primark Bexleyheath",
+        "Street": "The Mall",
+        "City": "Bexleyheath",
+        "Country": "England",
+        "Zip_Code": "DA6 7JN",
+        "Address": "The Mall, Bexleyheath, England, DA6 7JN",
+        "Phone": "020 8298 2352",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Bexleyheath/the-mall",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/The+Mall,+Bexleyheath,+England,+DA6+7JN,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.048062, 53.39013]
+      },
+      "properties": {
+        "Store No.": 457,
+        "Name": "Primark Birkenhead",
+        "Street": "178-188 Grange Road",
+        "City": "Birkenhead",
+        "Country": "England",
+        "Zip_Code": "CH41 2EB",
+        "Address": "178-188 Grange Road, Birkenhead, England, CH41 2EB",
+        "Phone": "0151 647 7730",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Birkenhead/178-188-grange-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/178-188+Grange+Road,+Birkenhead,+England,+CH41+2EB,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.902826, 52.477376]
+      },
+      "properties": {
+        "Store No.": 458,
+        "Name": "Primark Birmingham",
+        "Street": "38 High Street",
+        "City": "Birmingham",
+        "Country": "England",
+        "Zip_Code": "B4 7SL",
+        "Address": "38 High Street, Birmingham, England, B4 7SL",
+        "Phone": "0121 634 6360",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Birmingham/38-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/38+High+Street,+Birmingham,+England,+B4+7SL,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.476572, 53.748439]
+      },
+      "properties": {
+        "Store No.": 459,
+        "Name": "Primark Blackburn",
+        "Street": "15-29 Victoria Court",
+        "City": "Blackburn",
+        "Country": "England",
+        "Zip_Code": "BB1 7JD",
+        "Address": "15-29 Victoria Court, Blackburn, England, BB1 7JD",
+        "Phone": "01254 662302",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Blackburn/15-29-victoria-court",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/15-29+Victoria+Court,+Blackburn,+England,+BB1+7JD,+UK/",
+        "Year_Opened": 2006
+      }},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.435169, 53.58033]
+      },
+      "properties": {
+        "Store No.": 460,
+        "Name": "Primark Bolton",
+        "Street": "6-10 Crompton Place",
+        "City": "Bolton",
+        "Country": "England",
+        "Zip_Code": "BL1 1EA",
+        "Address": "6-10 Crompton Place, Bolton, England, BL1 1EA",
+        "Phone": "01204 387110",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bolton/6-10-crompton-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/6-10+Crompton+Place,+Bolton,+England,+BL1+1EA,+UK/",
+        "Year_Opened": 1995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.890057, 50.720505]
+      },
+      "properties": {
+        "Store No.": 461,
+        "Name": "Primark Bournemouth",
+        "Street": "18 Commercial Road",
+        "City": "Bournemouth",
+        "Country": "England",
+        "Zip_Code": "BH2 5LP",
+        "Address": "18 Commercial Road, Bournemouth, England, BH2 5LP",
+        "Phone": "01202 313625",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Bournemouth/18-commercial-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/18+Commercial+Road,+Bournemouth,+England,+BH2+5LP,+UK/",
+        "Year_Opened": 2006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.751367, 51.415617]
+      },
+      "properties": {
+        "Store No.": 462,
+        "Name": "Primark Bracknell",
+        "Street": "10 Eagle Lane",
+        "City": "Bracknell",
+        "Country": "England",
+        "Zip_Code": "RG12 1BG",
+        "Address": "10 Eagle Lane, Bracknell, England, RG12 1BG",
+        "Phone": "01344 426788",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Bracknell/10-eagle-lane",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/10+Eagle+Lane,+Bracknell,+England,+RG12+1BG,+UK/",
+        "Year_Opened": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.751748, 53.794769]
+      },
+      "properties": {
+        "Store No.": 463,
+        "Name": "Primark Bradford",
+        "Street": "22-26 Broadway",
+        "City": "Bradford",
+        "Country": "England",
+        "Zip_Code": "BD1 1EY",
+        "Address": "22-26 Broadway, Bradford, England, BD1 1EY",
+        "Phone": "01274 390416",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bradford/22-26-broadway",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/22-26+Broadway,+Bradford,+England,+BD1+1EY,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.138888, 50.82253]
+      },
+      "properties": {
+        "Store No.": 464,
+        "Name": "Primark Brighton",
+        "Street": "130-138 Western Road",
+        "City": "Brighton",
+        "Country": "England",
+        "Zip_Code": "BN1 2LA",
+        "Address": "130-138 Western Road, Brighton, England, BN1 2LA",
+        "Phone": "01273 748590",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Brighton/130-138-western-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/130-138+Western+Road,+Brighton,+England,+BN1+2LA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.594196, 51.45683]
+      },
+      "properties": {
+        "Store No.": 465,
+        "Name": "Primark Bristol",
+        "Street": "11-15 The Horsefair",
+        "City": "Bristol",
+        "Country": "England",
+        "Zip_Code": "BS1 3BB",
+        "Address": "11-15 The Horsefair, Bristol, England, BS1 3BB",
+        "Phone": "0117 927 2972",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bristol/11-15-the-horsefair",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11-15+The+Horsefair,+Bristol,+England,+BS1+3BB,+UK/",
+        "Year_Opened": 2008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.017706, 51.404045]
+      },
+      "properties": {
+        "Store No.": 466,
+        "Name": "Primark Bromley",
+        "Street": "173-177 High Street",
+        "City": "Bromley",
+        "Country": "England",
+        "Zip_Code": "BR1 1NN",
+        "Address": "173-177 High Street, Bromley, England, BR1 1NN",
+        "Phone": "020 8466 7550",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bromley/173-177-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/173-177+High+Street,+Bromley,+England,+BR1+1NN,+UK/",
+        "Year_Opened": 1993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.251726, 53.794788]
+      },
+      "properties": {
+        "Store No.": 467,
+        "Name": "Primark Burnley",
+        "Street": "17-19 Curzon Street",
+        "City": "Burnley",
+        "Country": "England",
+        "Zip_Code": "BB11 1BB",
+        "Address": "17-19 Curzon Street, Burnley, England, BB11 1BB",
+        "Phone": "01282 693693",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Burnley/17-19-curzon-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/17-19+Curzon+Street,+Burnley,+England,+BB11+1BB,+UK/",
+        "Year_Opened": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.632392, 52.80327]
+      },
+      "properties": {
+        "Store No.": 468,
+        "Name": "Primark Burton-on-Trent",
+        "Street": "The Octagon Centre",
+        "City": "Burton-on-Trent",
+        "Country": "England",
+        "Zip_Code": "DE14 3TN",
+        "Address": "The Octagon Centre, Burton-on-Trent, England, DE14 3TN",
+        "Phone": "01283 563795",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Burton-on-Trent/the-octagon-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/The+Octagon+Centre,+Burton-on-Trent,+England,+DE14+3TN,+UK/",
+        "Year_Opened": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.297259, 53.594508]
+      },
+      "properties": {
+        "Store No.": 469,
+        "Name": "Primark Bury",
+        "Street": "Unit Msu 4 The Rock",
+        "City": "Bury",
+        "Country": "England",
+        "Zip_Code": "BL9 0JY",
+        "Address": "Unit Msu 4 The Rock, Bury, England, BL9 0JY",
+        "Phone": "0161 761 3690",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Bury/unit-msu-4-the-rock",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+Msu+4+The+Rock,+Bury,+England,+BL9+0JY,+UK/",
+        "Year_Opened": 2002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.711936, 52.246865]
+      },
+      "properties": {
+        "Store No.": 470,
+        "Name": "Primark Bury St Edmunds",
+        "Street": "15 Buttermarket",
+        "City": "Bury St Edmunds",
+        "Country": "England",
+        "Zip_Code": "IP33 1DB",
+        "Address": "15 Buttermarket, Bury St Edmunds, England, IP33 1DB",
+        "Phone": "01284 701731",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Bury-St-Edmunds/15-buttermarket",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/15+Buttermarket,+Bury+St+Edmunds,+England,+IP33+1DB,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.740132, 51.338237]
+      },
+      "properties": {
+        "Store No.": 471,
+        "Name": "Primark Camberley",
+        "Street": "49-50 Park Street",
+        "City": "Camberley",
+        "Country": "England",
+        "Zip_Code": "GU15 3PL",
+        "Address": "49-50 Park Street, Camberley, England, GU15 3PL",
+        "Phone": "01276 684421",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Camberley/49-50-park-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/49-50+Park+Street,+Camberley,+England,+GU15+3PL,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.127625, 52.207573]
+      },
+      "properties": {
+        "Store No.": 472,
+        "Name": "Primark Cambridge",
+        "Street": "33-34 Petty Cury",
+        "City": "Cambridge",
+        "Country": "England",
+        "Zip_Code": "CB2 3NB",
+        "Address": "33-34 Petty Cury, Cambridge, England, CB2 3NB",
+        "Phone": "01223 304070",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Cambridge/33-34-petty-cury",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/33-34+Petty+Cury,+Cambridge,+England,+CB2+3NB,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.081451, 51.27993]
+      },
+      "properties": {
+        "Store No.": 473,
+        "Name": "Primark Canterbury",
+        "Street": "36-39 Marlowe Arcade",
+        "City": "Canterbury",
+        "Country": "England",
+        "Zip_Code": "CT1 2TB",
+        "Address": "36-39 Marlowe Arcade, Canterbury, England, CT1 2TB",
+        "Phone": "01227 806466",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Canterbury/36-39-marlowe-arcade",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/36-39+Marlowe+Arcade,+Canterbury,+England,+CT1+2TB,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.178995, 51.483125]
+      },
+      "properties": {
+        "Store No.": 474,
+        "Name": "Primark Cardiff",
+        "Street": "The Hayes",
+        "City": "Cardiff",
+        "Country": "Wales",
+        "Zip_Code": "CF10 1BU",
+        "Address": "The Hayes, Cardiff, Wales, CF10 1BU",
+        "Phone": "029 2039 2159",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Cardiff/the-hayes",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/The+Hayes,+Cardiff,+Wales,+CF10+1BU,+UK/",
+        "Year_Opened": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.930955, 54.893474]
+      },
+      "properties": {
+        "Store No.": 475,
+        "Name": "Primark Carlisle",
+        "Street": "9-10 English Street",
+        "City": "Carlisle",
+        "Country": "England",
+        "Zip_Code": "CA3 8HZ",
+        "Address": "9-10 English Street, Carlisle, England, CA3 8HZ",
+        "Phone": "01228 595275",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Carlisle/9-10-english-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9-10+English+Street,+Carlisle,+England,+CA3+8HZ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.526567, 51.380978]
+      },
+      "properties": {
+        "Store No.": 476,
+        "Name": "Primark Chatham",
+        "Street": "6-7 The Pentagon Centre",
+        "City": "Chatham",
+        "Country": "England",
+        "Zip_Code": "ME4 4HY",
+        "Address": "6-7 The Pentagon Centre, Chatham, England, ME4 4HY",
+        "Phone": "01634 844283",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Chatham/6-7-the-pentagon-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/6-7+The+Pentagon+Centre,+Chatham,+England,+ME4+4HY,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.471089, 51.736605]
+      },
+      "properties": {
+        "Store No.": 477,
+        "Name": "Primark Chelmsford",
+        "Street": "10 High Street",
+        "City": "Chelmsford",
+        "Country": "England",
+        "Zip_Code": "CM1 1BE",
+        "Address": "10 High Street, Chelmsford, England, CM1 1BE",
+        "Phone": "01245 349008",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Chelmsford/10-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/10+High+Street,+Chelmsford,+England,+CM1+1BE,+UK/",
+        "Year_Opened": 2006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.078942, 51.899144]
+      },
+      "properties": {
+        "Store No.": 478,
+        "Name": "Primark Cheltenham",
+        "Street": "293 High Street",
+        "City": "Cheltenham",
+        "Country": "England",
+        "Zip_Code": "GL50 3HL",
+        "Address": "293 High Street, Cheltenham, England, GL50 3HL",
+        "Phone": "01242 226710",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Cheltenham/293-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/293+High+Street,+Cheltenham,+England,+GL50+3HL,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.885019, 53.190442]
+      },
+      "properties": {
+        "Store No.": 479,
+        "Name": "Primark Chester",
+        "Street": "44-48 Foregate Street",
+        "City": "Chester",
+        "Country": "England",
+        "Zip_Code": "CH1 1HA",
+        "Address": "44-48 Foregate Street, Chester, England, CH1 1HA",
+        "Phone": "01244 318904",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Chester/44-48-foregate-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/44-48+Foregate+Street,+Chester,+England,+CH1+1HA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.423578, 53.239067]
+      },
+      "properties": {
+        "Store No.": 480,
+        "Name": "Primark Chesterfield",
+        "Street": "Market Place",
+        "City": "Chesterfield",
+        "Country": "England",
+        "Zip_Code": "S40 1PN",
+        "Address": "Market Place, Chesterfield, England, S40 1PN",
+        "Phone": "01246 277183",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Chesterfield/market-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Market+Place,+Chesterfield,+England,+S40+1PN,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.403636, 55.891812]
+      },
+      "properties": {
+        "Store No.": 481,
+        "Name": "Primark Clydebank",
+        "Street": "Clyde Shopping Centre",
+        "City": "Clydebank",
+        "Country": "Scotland",
+        "Zip_Code": "G81 2QT",
+        "Address": "Clyde Shopping Centre, Clydebank, Scotland, G81 2QT",
+        "Phone": "0141 941 2084",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Clydebank/clyde-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Clyde+Shopping+Centre,+Clydebank,+Scotland,+G81+2QT,+UK/",
+        "Year_Opened": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.904652, 51.88557]
+      },
+      "properties": {
+        "Store No.": 482,
+        "Name": "Primark Colchester",
+        "Street": "Unit A10 Culver Square",
+        "City": "Colchester",
+        "Country": "England",
+        "Zip_Code": "CO1 1JG",
+        "Address": "Unit A10 Culver Square, Colchester, England, CO1 1JG",
+        "Phone": "01206 571167",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Colchester/unit-a10-culver-square",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+A10+Culver+Square,+Colchester,+England,+CO1+1JG,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.70439, 52.48768]
+      },
+      "properties": {
+        "Store No.": 483,
+        "Name": "Primark Corby",
+        "Street": "38-40 Corporation Street",
+        "City": "Corby",
+        "Country": "England",
+        "Zip_Code": "NN17 1NU",
+        "Address": "38-40 Corporation Street, Corby, England, NN17 1NU",
+        "Phone": "01536 206301",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Corby/38-40-corporation-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/38-40+Corporation+Street,+Corby,+England,+NN17+1NU,+UK/",
+        "Year_Opened": 1998
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.510238, 52.407709]
+      },
+      "properties": {
+        "Store No.": 484,
+        "Name": "Primark Coventry",
+        "Street": "18-20 Broadgate",
+        "City": "Coventry",
+        "Country": "England",
+        "Zip_Code": "CV1 1NE",
+        "Address": "18-20 Broadgate, Coventry, England, CV1 1NE",
+        "Phone": "024 7652 4382",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Coventry/18-20-broadgate",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/18-20+Broadgate,+Coventry,+England,+CV1+1NE,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.389876, 54.434023]
+      },
+      "properties": {
+        "Store No.": 485,
+        "Name": "Primark Craigavon",
+        "Street": "Unit 41 Rushmere Shopping Centre",
+        "City": "Craigavon",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT64 1AA",
+        "Address": "Unit 41 Rushmere Shopping Centre, Craigavon, Northern Ireland, BT64 1AA",
+        "Phone": "028 3834 9739",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Craigavon/unit-41-rushmere-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+41+Rushmere+Shopping+Centre,+Craigavon,+Northern+Ireland,+BT64+1AA,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.183229, 51.116875]
+      },
+      "properties": {
+        "Store No.": 486,
+        "Name": "Primark Crawley",
+        "Street": "1 County Mall",
+        "City": "Crawley",
+        "Country": "England",
+        "Zip_Code": "RH10 1FP",
+        "Address": "1 County Mall, Crawley, England, RH10 1FP",
+        "Phone": "01293 548843",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Crawley/1-county-mall",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/1+County+Mall,+Crawley,+England,+RH10+1FP,+UK/",
+        "Year_Opened": 1997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.101598, 51.371505]
+      },
+      "properties": {
+        "Store No.": 487,
+        "Name": "Primark Croydon",
+        "Street": "12 - 14 North End",
+        "City": "Croydon",
+        "Country": "England",
+        "Zip_Code": "CR0 1UD",
+        "Address": "12 - 14 North End, Croydon, England, CR0 1UD",
+        "Phone": "020 8686 1643",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Croydon/12-14-north-end",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/12+-+14+North+End,+Croydon,+England,+CR0+1UD,+UK/",
+        "Year_Opened": 1998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.02033, 51.654736]
+      },
+      "properties": {
+        "Store No.": 488,
+        "Name": "Primark Cwmbran",
+        "Street": "Unit 6B-8B Cwmbran Centre",
+        "City": "Cwmbran",
+        "Country": "Wales",
+        "Zip_Code": "NP44 1PE",
+        "Address": "Unit 6B-8B Cwmbran Centre, Cwmbran, Wales, NP44 1PE",
+        "Phone": "01633 482 787",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Cwmbran/unit-6b-8b-cwmbran-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+6B-8B+Cwmbran+Centre,+Cwmbran,+Wales,+NP44+1PE,+UK/",
+        "Year_Opened": 2005
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.543548, 54.522243]
+      },
+      "properties": {
+        "Store No.": 489,
+        "Name": "Primark Darlington",
+        "Street": "9-11 Northgate",
+        "City": "Darlington",
+        "Country": "England",
+        "Zip_Code": "DL1 1TL",
+        "Address": "9-11 Northgate, Darlington, England, DL1 1TL",
+        "Phone": "01325 358821",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Darlington/9-11-northgate",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9-11+Northgate,+Darlington,+England,+DL1+1TL,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.216862, 51.443428]
+      },
+      "properties": {
+        "Store No.": 490,
+        "Name": "Primark Dartford",
+        "Street": "22-23 High Street",
+        "City": "Dartford",
+        "Country": "England",
+        "Zip_Code": "DA1 1DT",
+        "Address": "22-23 High Street, Dartford, England, DA1 1DT",
+        "Phone": "01322 292095",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Dartford/22-23-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/22-23+High+Street,+Dartford,+England,+DA1+1DT,+UK/",
+        "Year_Opened": 1998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.475721, 52.922622]
+      },
+      "properties": {
+        "Store No.": 491,
+        "Name": "Primark Derby",
+        "Street": "22-26 London Road",
+        "City": "Derby",
+        "Country": "England",
+        "Zip_Code": "DE1 2NS",
+        "Address": "22-26 London Road, Derby, England, DE1 2NS",
+        "Phone": "01332 349402",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Derby/22-26-london-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/22-26+London+Road,+Derby,+England,+DE1+2NS,+UK/",
+        "Year_Opened": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.133712, 53.522851]
+      },
+      "properties": {
+        "Store No.": 492,
+        "Name": "Primark Doncaster",
+        "Street": "7 St Sepulchre Gate",
+        "City": "Doncaster",
+        "Country": "England",
+        "Zip_Code": "DN1 1SU",
+        "Address": "7 St Sepulchre Gate, Doncaster, England, DN1 1SU",
+        "Phone": "01302 322067",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Doncaster/7-st-sepulchre-gate",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/7+St+Sepulchre+Gate,+Doncaster,+England,+DN1+1SU,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.084331, 52.512255]
+      },
+      "properties": {
+        "Store No.": 493,
+        "Name": "Primark Dudley",
+        "Street": "Unit 1 66 High Street",
+        "City": "Dudley",
+        "Country": "England",
+        "Zip_Code": "DY1 1PY",
+        "Address": "Unit 1 66 High Street, Dudley, England, DY1 1PY",
+        "Phone": "01384 255616",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Dudley/unit-1-66-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+1+66+High+Street,+Dudley,+England,+DY1+1PY,+UK/",
+        "Year_Opened": 1997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.970776, 56.458707]
+      },
+      "properties": {
+        "Store No.": 494,
+        "Name": "Primark Dundee",
+        "Street": "49-51 High Street",
+        "City": "Dundee",
+        "Country": "Scotland",
+        "Zip_Code": "DD1 1UD",
+        "Address": "49-51 High Street, Dundee, Scotland, DD1 1UD",
+        "Phone": "01382 228554",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Dundee/49-51-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/49-51+High+Street,+Dundee,+Scotland,+DD1+1UD,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.471011, 56.071065]
+      },
+      "properties": {
+        "Store No.": 495,
+        "Name": "Primark Dunfermline",
+        "Street": "6 High Street",
+        "City": "Dunfermline",
+        "Country": "Scotland",
+        "Zip_Code": "KY12 7DR",
+        "Address": "6 High Street, Dunfermline, Scotland, KY12 7DR",
+        "Phone": "01383 626193",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Dunfermline/6-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/6+High+Street,+Dunfermline,+Scotland,+KY12+7DR,+UK/",
+        "Year_Opened": 2002
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.300607, 51.514657]
+      },
+      "properties": {
+        "Store No.": 496,
+        "Name": "Primark Ealing",
+        "Street": "Unit 12 13 and 14 Ealing Broadway Centre",
+        "City": "Ealing",
+        "Country": "England",
+        "Zip_Code": "W5 5JY",
+        "Address": "Unit 12 13 and 14 Ealing Broadway Centre, Ealing, England, W5 5JY",
+        "Phone": "020 8567 6943",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Ealing/unit-12-13-and-14-ealing-broadway-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+12+13+and+14+Ealing+Broadway+Centre,+Ealing,+England,+W5+5JY,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.048317, 51.530536]
+      },
+      "properties": {
+        "Store No.": 497,
+        "Name": "Primark East Ham",
+        "Street": "140/142 High Street North",
+        "City": "East Ham",
+        "Country": "England",
+        "Zip_Code": "E6 2HT",
+        "Address": "140/142 High Street North, East Ham, England, E6 2HT",
+        "Phone": "020 8471 2004",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/East Ham/140-142-high-street-north",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/140-142+High+Street+North,+East+Ham,+England,+E6+2HT,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.14971, 55.767909]
+      },
+      "properties": {
+        "Store No.": 498,
+        "Name": "Primark East Kilbride",
+        "Street": "51/63 The Plaza",
+        "City": "East Kilbride",
+        "Country": "Scotland",
+        "Zip_Code": "G74 1LF",
+        "Address": "51/63 The Plaza, East Kilbride, Scotland, G74 1LF",
+        "Phone": "01355 260298",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/East Kilbride/51-63-the-plaza",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/51-63+The+Plaza,+East+Kilbride,+Scotland,+G74+1LF,+UK/",
+        "Year_Opened": 2005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.290874, 50.768043]
+      },
+      "properties": {
+        "Store No.": 499,
+        "Name": "Primark Eastbourne",
+        "Street": "57-59 Terminus Road",
+        "City": "Eastbourne",
+        "Country": "England",
+        "Zip_Code": "BN21 3QQ",
+        "Address": "57-59 Terminus Road, Eastbourne, England, BN21 3QQ",
+        "Phone": "01323 433555",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Eastbourne/57-59-terminus-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/57-59+Terminus+Road,+Eastbourne,+England,+BN21+3QQ,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.195667, 55.948299]
+      },
+      "properties": {
+        "Store No.": 500,
+        "Name": "Primark Edinburgh",
+        "Street": "91-101 Princes Street",
+        "City": "Edinburgh",
+        "Country": "Scotland",
+        "Zip_Code": "EH2 2ER",
+        "Address": "91-101 Princes Street, Edinburgh, Scotland, EH2 2ER",
+        "Phone": "0131 226 5557",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Edinburgh/91-101-princes-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/91-101+Princes+Street,+Edinburgh,+Scotland,+EH2+2ER,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.528488, 50.721271]
+      },
+      "properties": {
+        "Store No.": 501,
+        "Name": "Primark Exeter",
+        "Street": "Unit 22 Bedford Street",
+        "City": "Exeter",
+        "Country": "England",
+        "Zip_Code": "EX1 1GJ",
+        "Address": "Unit 22 Bedford Street, Exeter, England, EX1 1GJ",
+        "Phone": "01392 423208",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Exeter/unit-22-bedford-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+22+Bedford+Street,+Exeter,+England,+EX1+1GJ,+UK/",
+        "Year_Opened": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.179495, 51.080999]
+      },
+      "properties": {
+        "Store No.": 502,
+        "Name": "Primark Folkestone",
+        "Street": "Units 7-10 Park Mall Shopping Centre",
+        "City": "Folkestone",
+        "Country": "England",
+        "Zip_Code": "CT20 1SP",
+        "Address": "Units 7-10 Park Mall Shopping Centre, Folkestone, England, CT20 1SP",
+        "Phone": "01303 210936",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Folkestone/units-7-10-park-mall-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Units+7-10+Park+Mall+Shopping+Centre,+Folkestone,+England,+CT20+1SP,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.605042, 54.958535]
+      },
+      "properties": {
+        "Store No.": 503,
+        "Name": "Primark Gateshead",
+        "Street": "31 Cameron Walk, intu Metrocentre",
+        "City": "Gateshead",
+        "Country": "England",
+        "Zip_Code": "NE11 9YR",
+        "Address": "31 Cameron Walk, intu Metrocentre, Gateshead, England, NE11 9YR",
+        "Phone": "0191 460 1706",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Gateshead/31-cameron-walk-intu-metrocentre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/31+Cameron+Walk,+intu+Metrocentre,+Gateshead,+England,+NE11+9YR,+UK/",
+        "Year_Opened": 1986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.2531, 55.8656]
+      },
+      "properties": {
+        "Store No.": 504,
+        "Name": "Primark Glasgow",
+        "Street": "171-195 Argyle Street",
+        "City": "Glasgow",
+        "Country": "Scotland",
+        "Zip_Code": "G2 8BU",
+        "Address": "171-195 Argyle Street, Glasgow, Scotland, G2 8BU",
+        "Phone": "0141 353 7102",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Glasgow/171-195-argyle-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/171-195+Argyle+Street,+Glasgow,+Scotland,+G2+8BU,+UK/",
+        "Year_Opened": 1984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.241152, 51.8665]
+      },
+      "properties": {
+        "Store No.": 505,
+        "Name": "Primark Gloucester",
+        "Street": "1 Eastgate Street",
+        "City": "Gloucester",
+        "Country": "England",
+        "Zip_Code": "GL1 1PA",
+        "Address": "1 Eastgate Street, Gloucester, England, GL1 1PA",
+        "Phone": "01452 321147",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Gloucester/1-eastgate-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/1+Eastgate+Street,+Gloucester,+England,+GL1+1PA,+UK/",
+        "Year_Opened": 2008
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.3733, 51.4416]
+      },
+      "properties": {
+        "Store No.": 506,
+        "Name": "Primark Gravesend",
+        "Street": "20-22 New Road",
+        "City": "Gravesend",
+        "Country": "England",
+        "Zip_Code": "DA11 0AA",
+        "Address": "20-22 New Road, Gravesend, England, DA11 0AA",
+        "Phone": "01474 331791",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Gravesend/20-22-new-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/20-22+New+Road,+Gravesend,+England,+DA11+0AA,+UK/",
+        "Year_Opened": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.2778, 51.4479]
+      },
+      "properties": {
+        "Store No.": 507,
+        "Name": "Primark Greenhithe",
+        "Street": "Unit L024 Lower Thames Walk Bluewater Shopping Centre",
+        "City": "Greenhithe",
+        "Country": "England",
+        "Zip_Code": "DA9 9SF",
+        "Address": "Unit L024 Lower Thames Walk Bluewater Shopping Centre, Greenhithe, England, DA9 9SF",
+        "Phone": "01322 425119",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 21:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Greenhithe/unit-l024-lower-thames-walk-bluewater-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+L024+Lower+Thames+Walk+Bluewater+Shopping+Centre,+Greenhithe,+England,+DA9+9SF,+UK/",
+        "Year_Opened": 1999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7683, 55.9466]
+      },
+      "properties": {
+        "Store No.": 508,
+        "Name": "Primark Greenock",
+        "Street": "89-91 Hamilton Way Oak Mall Shopping Centre",
+        "City": "Greenock",
+        "Country": "Scotland",
+        "Zip_Code": "PA15 1RH",
+        "Address": "89-91 Hamilton Way Oak Mall Shopping Centre, Greenock, Scotland, PA15 1RH",
+        "Phone": "01475 784502",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Greenock/89-91-hamilton-way-oak-mall-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/89-91+Hamilton+Way+Oak+Mall+Shopping+Centre,+Greenock,+Scotland,+PA15+1RH,+UK/",
+        "Year_Opened": 1989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0829, 53.5647]
+      },
+      "properties": {
+        "Store No.": 509,
+        "Name": "Primark Grimsby",
+        "Street": "31-33 Victoria Street",
+        "City": "Grimsby",
+        "Country": "England",
+        "Zip_Code": "DN31 1DW",
+        "Address": "31-33 Victoria Street, Grimsby, England, DN31 1DW",
+        "Phone": "01472 351634",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Grimsby/31-33-victoria-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/31-33+Victoria+Street,+Grimsby,+England,+DN31+1DW,+UK/",
+        "Year_Opened": 2006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5761, 51.2358]
+      },
+      "properties": {
+        "Store No.": 510,
+        "Name": "Primark Guildford",
+        "Street": "95-96 High Street",
+        "City": "Guildford",
+        "Country": "England",
+        "Zip_Code": "GU1 3DP",
+        "Address": "95-96 High Street, Guildford, England, GU1 3DP",
+        "Phone": "01483 579026",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Guildford/95-96-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/95-96+High+Street,+Guildford,+England,+GU1+3DP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0345, 55.7789]
+      },
+      "properties": {
+        "Store No.": 511,
+        "Name": "Primark Hamilton",
+        "Street": "16-20 Regent Way",
+        "City": "Hamilton",
+        "Country": "Scotland",
+        "Zip_Code": "ML3 7DZ",
+        "Address": "16-20 Regent Way, Hamilton, Scotland, ML3 7DZ",
+        "Phone": "01698 898447",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Hamilton/16-20-regent-way",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/16-20+Regent+Way,+Hamilton,+Scotland,+ML3+7DZ,+UK/",
+        "Year_Opened": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2236, 51.492]
+      },
+      "properties": {
+        "Store No.": 512,
+        "Name": "Primark Hammersmith",
+        "Street": "Unit 17 The Broadway Shopping Centre",
+        "City": "Hammersmith",
+        "Country": "England",
+        "Zip_Code": "W6 9YD",
+        "Address": "Unit 17 The Broadway Shopping Centre, Hammersmith, England, W6 9YD",
+        "Phone": "020 8748 0816",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 12:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Hammersmith/unit-17-the-broadway-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+17+The+Broadway+Shopping+Centre,+Hammersmith,+England,+W6+9YD,+UK/",
+        "Year_Opened": 2011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1026, 51.7698]
+      },
+      "properties": {
+        "Store No.": 513,
+        "Name": "Primark Harlow",
+        "Street": "Unit 5 Broadwalk Harlow Shopping Centre",
+        "City": "Harlow",
+        "Country": "England",
+        "Zip_Code": "CM20 1HX",
+        "Address": "Unit 5 Broadwalk Harlow Shopping Centre, Harlow, England, CM20 1HX",
+        "Phone": "01279 639598",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Harlow/unit-5-broadwalk-harlow-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+5+Broadwalk+Harlow+Shopping+Centre,+Harlow,+England,+CM20+1HX,+UK/",
+        "Year_Opened": 2005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5196, 53.9921]
+      },
+      "properties": {
+        "Store No.": 514,
+        "Name": "Primark Harrogate",
+        "Street": "32-36 Cambridge Street",
+        "City": "Harrogate",
+        "Country": "England",
+        "Zip_Code": "HG1 1RX",
+        "Address": "32-36 Cambridge Street, Harrogate, England, HG1 1RX",
+        "Phone": "01423 502128",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Harrogate/32-36-cambridge-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/32-36+Cambridge+Street,+Harrogate,+England,+HG1+1RX,+UK/",
+        "Year_Opened": 2008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3368, 51.5844]
+      },
+      "properties": {
+        "Store No.": 515,
+        "Name": "Primark Harrow",
+        "Street": "Store D St Ann's Shopping Centre",
+        "City": "Harrow",
+        "Country": "England",
+        "Zip_Code": "HA1 1AT",
+        "Address": "Store D St Ann's Shopping Centre, Harrow, England, HA1 1AT",
+        "Phone": "020 8427 7919",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 19:30 | saturday :- 09:00 - 19:00 | sunday :- 10:30 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Harrow/store-d",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Store+D+St+Ann's+Shopping+Centre,+Harrow,+England,+HA1+1AT,+UK/",
+        "Year_Opened": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2077, 54.6861]
+      },
+      "properties": {
+        "Store No.": 516,
+        "Name": "Primark Hartlepool",
+        "Street": "Middleton Grange Shopping Centre",
+        "City": "Hartlepool",
+        "Country": "England",
+        "Zip_Code": "TS24 7RJ",
+        "Address": "Middleton Grange Shopping Centre, Hartlepool, England, TS24 7RJ",
+        "Phone": "01429 855861",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Hartlepool/middleton-grange-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Middleton+Grange+Shopping+Centre,+Hartlepool,+England,+TS24+7RJ,+UK/",
+        "Year_Opened": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.5632, 50.856]
+      },
+      "properties": {
+        "Store No.": 517,
+        "Name": "Primark Hastings",
+        "Street": "Priory Meadow Shopping Centre",
+        "City": "Hastings",
+        "Country": "England",
+        "Zip_Code": "TN34 1PH",
+        "Address": "Priory Meadow Shopping Centre, Hastings, England, TN34 1PH",
+        "Phone": "01424 437 393",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Hastings/priory-meadow-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Priory+Meadow+Shopping+Centre,+Hastings,+England,+TN34+1PH,+UK/",
+        "Year_Opened": 1996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4943, 51.7509]
+      },
+      "properties": {
+        "Store No.": 518,
+        "Name": "Primark Hemel Hempstead",
+        "Street": "Unit 11 The Marlowes Shopping Centre",
+        "City": "Hemel Hempstead",
+        "Country": "England",
+        "Zip_Code": "HP1 1DX",
+        "Address": "Unit 11 The Marlowes Shopping Centre, Hemel Hempstead, England, HP1 1DX",
+        "Phone": "01442 253133",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Hemel-Hempstead/unit-11-the-marlowes-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+11+The+Marlowes+Shopping+Centre,+Hemel+Hempstead,+England,+HP1+1DX,+UK/",
+        "Year_Opened": 1997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7139, 52.0567]
+      },
+      "properties": {
+        "Store No.": 519,
+        "Name": "Primark Hereford",
+        "Street": "23-29 High Street",
+        "City": "Hereford",
+        "Country": "England",
+        "Zip_Code": "HR4 9AA",
+        "Address": "23-29 High Street, Hereford, England, HR4 9AA",
+        "Phone": "01432 356070",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Hereford/23-29-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/23-29+High+Street,+Hereford,+England,+HR4+9AA,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7478, 51.6273]
+      },
+      "properties": {
+        "Store No.": 520,
+        "Name": "Primark High Wycombe",
+        "Street": "26-34 White Hart Street",
+        "City": "High Wycombe",
+        "Country": "England",
+        "Zip_Code": "HP11 2HL",
+        "Address": "26-34 White Hart Street, High Wycombe, England, HP11 2HL",
+        "Phone": "01494 527550",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/High-Wycombe/26-34-white-hart-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/26-34+White+Hart+Street,+High+Wycombe,+England,+HP11+2HL,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3628, 51.4715]
+      },
+      "properties": {
+        "Store No.": 521,
+        "Name": "Primark Hounslow",
+        "Street": "Unit 25 Treaty Centre",
+        "City": "Hounslow",
+        "Country": "England",
+        "Zip_Code": "TW3 1ES",
+        "Address": "Unit 25 Treaty Centre, Hounslow, England, TW3 1ES",
+        "Phone": "020 8572 2794",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Hounslow/unit-25-treaty-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+25+Treaty+Centre,+Hounslow,+England,+TW3+1ES,+UK/",
+        "Year_Opened": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7805, 53.6458]
+      },
+      "properties": {
+        "Store No.": 522,
+        "Name": "Primark Huddersfield",
+        "Street": "32-44 New Street",
+        "City": "Huddersfield",
+        "Country": "England",
+        "Zip_Code": "HD1 2BW",
+        "Address": "32-44 New Street, Huddersfield, England, HD1 2BW",
+        "Phone": "01484 432194",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Huddersfield/32-44-new-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/32-44+New+Street,+Huddersfield,+England,+HD1+2BW,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.334, 53.7466]
+      },
+      "properties": {
+        "Store No.": 523,
+        "Name": "Primark Hull",
+        "Street": "Unit 12 St Stephen's Shopping Centre",
+        "City": "Hull",
+        "Country": "England",
+        "Zip_Code": "HU2 8LN",
+        "Address": "Unit 12 St Stephen's Shopping Centre, Hull, England, HU2 8LN",
+        "Phone": "01482 324756",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Hull/unit-12-st-stephens-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+12+St+Stephen's+Shopping+Centre,+Hull,+England,+HU2+8LN,+UK/",
+        "Year_Opened": 2007
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.0724, 51.5606]
+      },
+      "properties": {
+        "Store No.": 524,
+        "Name": "Primark Ilford",
+        "Street": "90-94 High Road",
+        "City": "Ilford",
+        "Country": "England",
+        "Zip_Code": "IG1 1DL",
+        "Address": "90-94 High Road, Ilford, England, IG1 1DL",
+        "Phone": "020 8553 7384",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Ilford/90-94-high-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/90-94+High+Road,+Ilford,+England,+IG1+1DL,+UK/",
+        "Year_Opened": 2016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.2247, 57.4791]
+      },
+      "properties": {
+        "Store No.": 525,
+        "Name": "Primark Inverness",
+        "Street": "Unit 15 Eastgate Centre",
+        "City": "Inverness",
+        "Country": "Scotland",
+        "Zip_Code": "IV2 3PP",
+        "Address": "Unit 15 Eastgate Centre, Inverness, Scotland, IV2 3PP",
+        "Phone": "01463 717470",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Inverness/unit-15-eastgate-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+15+Eastgate+Centre,+Inverness,+Scotland,+IV2+3PP,+UK/",
+        "Year_Opened": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.1581, 52.0573]
+      },
+      "properties": {
+        "Store No.": 526,
+        "Name": "Primark Ipswich",
+        "Street": "20 Carr Street",
+        "City": "Ipswich",
+        "Country": "England",
+        "Zip_Code": "IP4 1ED",
+        "Address": "20 Carr Street, Ipswich, England, IP4 1ED",
+        "Phone": "01473 238 505",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Ipswich/20-carr-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/20+Carr+Street,+Ipswich,+England,+IP4+1ED,+UK/",
+        "Year_Opened": 2017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.6668, 55.6135]
+      },
+      "properties": {
+        "Store No.": 527,
+        "Name": "Primark Irvine",
+        "Street": "23-27 High Street",
+        "City": "Irvine",
+        "Country": "Scotland",
+        "Zip_Code": "KA12 0AL",
+        "Address": "23-27 High Street, Irvine, Scotland, KA12 0AL",
+        "Phone": "01294 274 238",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Irvine/23-27-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/23-27+High+Street,+Irvine,+Scotland,+KA12+0AL,+UK/",
+        "Year_Opened": 1998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6664, 51.2787]
+      },
+      "properties": {
+        "Store No.": 528,
+        "Name": "Primark Kent",
+        "Street": "13 Week Street",
+        "City": "Maidstone",
+        "Country": "England",
+        "Zip_Code": "ME14 1QP",
+        "Address": "13 Week Street, Maidstone, England, ME14 1QP",
+        "Phone": "01622 678414",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Kent/13-week-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/13+Week+Street,+Maidstone,+England,+ME14+1QP,+UK/",
+        "Year_Opened": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.4129, 52.7553]
+      },
+      "properties": {
+        "Store No.": 529,
+        "Name": "Primark Kings Lynn",
+        "Street": "9 Norfolk Street",
+        "City": "Kings Lynn",
+        "Country": "England",
+        "Zip_Code": "PE30 1AR",
+        "Address": "9 Norfolk Street, Kings Lynn, England, PE30 1AR",
+        "Phone": "01553 760821",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Kings-Lynn/9-norfolk-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9+Norfolk+Street,+Kings+Lynn,+England,+PE30+1AR,+UK/",
+        "Year_Opened": 2012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3054, 51.4096]
+      },
+      "properties": {
+        "Store No.": 530,
+        "Name": "Primark Kingston Upon Thames",
+        "Street": "11 Wood Street",
+        "City": "Kingston Upon Thames",
+        "Country": "England",
+        "Zip_Code": "KT1 1TG",
+        "Address": "11 Wood Street, Kingston Upon Thames, England, KT1 1TG",
+        "Phone": "020 8546 6818",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 19:30 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Kingston-Upon-Thames/11-wood-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11+Wood+Street,+Kingston+Upon+Thames,+England,+KT1+1TG,+UK/",
+        "Year_Opened": 2004
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.8009, 54.0454]
+      },
+      "properties": {
+        "Store No.": 531,
+        "Name": "Primark Lancaster",
+        "Street": "20 Penny Street",
+        "City": "Lancaster",
+        "Country": "England",
+        "Zip_Code": "LA1 1UA",
+        "Address": "20 Penny Street, Lancaster, England, LA1 1UA",
+        "Phone": "01524 380545",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Lancaster/20-penny-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/20+Penny+Street,+Lancaster,+England,+LA1+1UA,+UK/",
+        "Year_Opened": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5479, 53.7974]
+      },
+      "properties": {
+        "Store No.": 532,
+        "Name": "Primark Leeds",
+        "Street": "Trinity Leeds",
+        "City": "Leeds",
+        "Country": "England",
+        "Zip_Code": "LS1 5AT",
+        "Address": "Trinity Leeds, Leeds, England, LS1 5AT",
+        "Phone": "0113 245 6435",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Leeds/trinity-leeds",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Trinity+Leeds,+Leeds,+England,+LS1+5AT,+UK/",
+        "Year_Opened": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1266, 52.6369]
+      },
+      "properties": {
+        "Store No.": 533,
+        "Name": "Primark Leicester",
+        "Street": "16-18 Humberstone Gate",
+        "City": "Leicester",
+        "Country": "England",
+        "Zip_Code": "LE1 3PH",
+        "Address": "16-18 Humberstone Gate, Leicester, England, LE1 3PH",
+        "Phone": "0116 262 5380",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Leicester/16-18-humberstone-gate",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/16-18+Humberstone+Gate,+Leicester,+England,+LE1+3PH,+UK/",
+        "Year_Opened": 2001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5402, 53.2326]
+      },
+      "properties": {
+        "Store No.": 534,
+        "Name": "Primark Lincoln",
+        "Street": "St Marks Retail Park",
+        "City": "Lincoln",
+        "Country": "England",
+        "Zip_Code": "LN6 7TP",
+        "Address": "St Marks Retail Park, Lincoln, England, LN6 7TP",
+        "Phone": "01522 560127",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Lincoln/st-marks-retail-park",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/St+Marks+Retail+Park,+Lincoln,+England,+LN6+7TP,+UK/",
+        "Year_Opened": 2018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.0433, 54.5202]
+      },
+      "properties": {
+        "Store No.": 535,
+        "Name": "Primark Lisburn",
+        "Street": "Unit 11 Bow Street Mall",
+        "City": "Lisburn",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT28 1AW",
+        "Address": "Unit 11 Bow Street Mall, Lisburn, Northern Ireland, BT28 1AW",
+        "Phone": "028 9260 5554",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 17:30 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Lisburn/unit-11-bow-street-mall",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+11+Bow+Street+Mall,+Lisburn,+Northern+Ireland,+BT28+1AW,+UK/",
+        "Year_Opened": 2003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9813, 53.4076]
+      },
+      "properties": {
+        "Store No.": 536,
+        "Name": "Primark Liverpool",
+        "Street": "Church Street",
+        "City": "Liverpool",
+        "Country": "England",
+        "Zip_Code": "L1 3DN",
+        "Address": "Church Street, Liverpool, England, L1 3DN",
+        "Phone": "0151 708 9333",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Liverpool/church-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Church+Street,+Liverpool,+England,+L1+3DN,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5231, 55.8809]
+      },
+      "properties": {
+        "Store No.": 537,
+        "Name": "Primark Livingston",
+        "Street": "Almondvale South Retail Park",
+        "City": "Livingston",
+        "Country": "Scotland",
+        "Zip_Code": "EH54 6HR",
+        "Address": "Almondvale South Retail Park, Livingston, Scotland, EH54 6HR",
+        "Phone": "01506 431290",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Livingston/almondvale-south-retail-park",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Almondvale+South+Retail+Park,+Livingston,+Scotland,+EH54+6HR,+UK/",
+        "Year_Opened": 2011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7732, 53.3224]
+      },
+      "properties": {
+        "Store No.": 538,
+        "Name": "Primark Llandudno",
+        "Street": "Llandudno Retail Park",
+        "City": "Llandudno",
+        "Country": "Wales",
+        "Zip_Code": "LL30 1HA",
+        "Address": "Llandudno Retail Park, Llandudno, Wales, LL30 1HA",
+        "Phone": "01492 876100",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Llandudno/llandudno-retail-park",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Llandudno+Retail+Park,+Llandudno,+Wales,+LL30+1HA,+UK/",
+        "Year_Opened": 2013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.1753, 51.6806]
+      },
+      "properties": {
+        "Store No.": 539,
+        "Name": "Primark Llanelli",
+        "Street": "Parc Trostre",
+        "City": "Llanelli",
+        "Country": "Wales",
+        "Zip_Code": "SA14 9UY",
+        "Address": "Parc Trostre, Llanelli, Wales, SA14 9UY",
+        "Phone": "01554 749279",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Llanelli/parc-trostre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Parc+Trostre,+Llanelli,+Wales,+SA14+9UY,+UK/",
+        "Year_Opened": 2009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5074]
+      },
+      "properties": {
+        "Store No.": 540,
+        "Name": "Primark Oxford Street East",
+        "Street": "173-175 Oxford Street",
+        "City": "London",
+        "Country": "England",
+        "Zip_Code": "W1D 2JR",
+        "Address": "173-175 Oxford Street, London, England, W1D 2JR",
+        "Phone": "020 7494 0745",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 21:00 | sunday :- 12:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/London/173-175-oxford-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/173-175+Oxford+Street,+London,+England,+W1D+2JR,+UK/",
+        "Year_Opened": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.3260, 54.9953]
+      },
+      "properties": {
+        "Store No.": 541,
+        "Name": "Primark Londonderry",
+        "Street": "Foyleside Shopping Centre",
+        "City": "Londonderry",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT48 6XY",
+        "Address": "Foyleside Shopping Centre, Londonderry, Northern Ireland, BT48 6XY",
+        "Phone": "028 7137 4041",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Londonderry/foyleside-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Foyleside+Shopping+Centre,+Londonderry,+Northern+Ireland,+BT48+6XY,+UK/",
+        "Year_Opened": 2011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2114, 52.7734]
+      },
+      "properties": {
+        "Store No.": 542,
+        "Name": "Primark Loughborough",
+        "Street": "47-49 Market Street",
+        "City": "Loughborough",
+        "Country": "England",
+        "Zip_Code": "LE11 3EP",
+        "Address": "47-49 Market Street, Loughborough, England, LE11 3EP",
+        "Phone": "01509 235231",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Loughborough/47-49-market-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/47-49+Market+Street,+Loughborough,+England,+LE11+3EP,+UK/",
+        "Year_Opened": 2010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4144, 51.8787]
+      },
+      "properties": {
+        "Store No.": 543,
+        "Name": "Primark Luton",
+        "Street": "32-42 George Street",
+        "City": "Luton",
+        "Country": "England",
+        "Zip_Code": "LU1 2AN",
+        "Address": "32-42 George Street, Luton, England, LU1 2AN",
+        "Phone": "01582 457715",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Luton/32-42-george-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/32-42+George+Street,+Luton,+England,+LU1+2AN,+UK/",
+        "Year_Opened": 2012
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.5238, 51.2734]
+      },
+      "properties": {
+        "Store No.": 544,
+        "Name": "Primark Maidstone",
+        "Street": "74-76 Week Street",
+        "City": "Maidstone",
+        "Country": "England",
+        "Zip_Code": "ME14 1RJ",
+        "Address": "74-76 Week Street, Maidstone, England, ME14 1RJ",
+        "Phone": "01622 671101",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Maidstone/74-76-week-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/74-76+Week+Street,+Maidstone,+England,+ME14+1RJ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.2426, 53.4808]
+      },
+      "properties": {
+        "Store No.": 545,
+        "Name": "Primark Manchester",
+        "Street": "106 - 122 Market Street",
+        "City": "Manchester",
+        "Country": "England",
+        "Zip_Code": "M1 1WA",
+        "Address": "106 - 122 Market Street, Manchester, England, M1 1WA",
+        "Phone": "0161 834 8971",
+        "Open Hours": "monday :- 09:00 - 19:30 | tuesday :- 09:00 - 19:30 | wednesday :- 09:00 - 19:30 | thursday :- 09:00 - 19:30 | friday :- 09:00 - 20:00 | saturday :- 08:30 - 20:00 | sunday :- 11:30 - 17:30",
+        "URL": "https://www.primark.com/en-gb/stores/Manchester/106-122-market-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/106-122+Market+Street,+Manchester,+England,+M1+1WA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1715, 53.1412]
+      },
+      "properties": {
+        "Store No.": 546,
+        "Name": "Primark Mansfield",
+        "Street": "9-10 Four Seasons Shopping Centre",
+        "City": "Mansfield",
+        "Country": "England",
+        "Zip_Code": "NG18 1SN",
+        "Address": "9-10 Four Seasons Shopping Centre, Mansfield, England, NG18 1SN",
+        "Phone": "01623 663075",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Mansfield/9-10-four-seasons-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9-10+Four+Seasons+Shopping+Centre,+Mansfield,+England,+NG18+1SN,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2345, 54.5742]
+      },
+      "properties": {
+        "Store No.": 547,
+        "Name": "Primark Middlesbrough",
+        "Street": "Unit 30 Cleveland Centre",
+        "City": "Middlesbrough",
+        "Country": "England",
+        "Zip_Code": "TS1 2NR",
+        "Address": "Unit 30 Cleveland Centre, Middlesbrough, England, TS1 2NR",
+        "Phone": "01642 240588",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Middlesbrough/unit-30-cleveland-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+30+Cleveland+Centre,+Middlesbrough,+England,+TS1+2NR,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7558, 52.0417]
+      },
+      "properties": {
+        "Store No.": 548,
+        "Name": "Primark Milton Keynes",
+        "Street": "28-34 Midsummer Place",
+        "City": "Milton Keynes",
+        "Country": "England",
+        "Zip_Code": "MK9 3GA",
+        "Address": "28-34 Midsummer Place, Milton Keynes, England, MK9 3GA",
+        "Phone": "01908 694780",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Milton-Keynes/28-34-midsummer-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/28-34+Midsummer+Place,+Milton+Keynes,+England,+MK9+3GA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.9938, 55.7928]
+      },
+      "properties": {
+        "Store No.": 549,
+        "Name": "Primark Motherwell",
+        "Street": "Units 12-14 Cumbernauld Road",
+        "City": "Motherwell",
+        "Country": "Scotland",
+        "Zip_Code": "ML1 1RW",
+        "Address": "Units 12-14 Cumbernauld Road, Motherwell, Scotland, ML1 1RW",
+        "Phone": "01698 251073",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Motherwell/units-12-14-cumbernauld-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Units+12-14+Cumbernauld+Road,+Motherwell,+Scotland,+ML1+1RW,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6174, 54.9783]
+      },
+      "properties": {
+        "Store No.": 550,
+        "Name": "Primark Newcastle-Upon-Tyne",
+        "Street": "Northumberland Street",
+        "City": "Newcastle-Upon-Tyne",
+        "Country": "England",
+        "Zip_Code": "NE1 7AF",
+        "Address": "Northumberland Street, Newcastle-Upon-Tyne, England, NE1 7AF",
+        "Phone": "0191 261 2050",
+        "Open Hours": "monday :- 09:00 - 18:30 | tuesday :- 09:00 - 18:30 | wednesday :- 09:00 - 18:30 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:30 | saturday :- 09:00 - 18:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Newcastle-Upon-Tyne/northumberland-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Northumberland+Street,+Newcastle-Upon-Tyne,+England,+NE1+7AF,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9965, 51.5891]
+      },
+      "properties": {
+        "Store No.": 551,
+        "Name": "Primark Newport",
+        "Street": "15-18 Commercial Street",
+        "City": "Newport",
+        "Country": "Wales",
+        "Zip_Code": "NP20 1ER",
+        "Address": "15-18 Commercial Street, Newport, Wales, NP20 1ER",
+        "Phone": "01633 250088",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Newport/15-18-commercial-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/15-18+Commercial+Street,+Newport,+Wales,+NP20+1ER,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3345, 54.1781]
+      },
+      "properties": {
+        "Store No.": 552,
+        "Name": "Primark Newry",
+        "Street": "Unit 3, The Quays Shopping Centre",
+        "City": "Newry",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT35 8QS",
+        "Address": "Unit 3, The Quays Shopping Centre, Newry, Northern Ireland, BT35 8QS",
+        "Phone": "028 3025 3600",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Newry/unit-3-the-quays-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+3,+The+Quays+Shopping+Centre,+Newry,+Northern+Ireland,+BT35+8QS,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.919, 54.6545]
+      },
+      "properties": {
+        "Store No.": 553,
+        "Name": "Primark Newtownabbey",
+        "Street": "Unit 39, Abbey Centre",
+        "City": "Newtownabbey",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT37 9UH",
+        "Address": "Unit 39, Abbey Centre, Newtownabbey, Northern Ireland, BT37 9UH",
+        "Phone": "028 9085 1185",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Newtownabbey/unit-39-abbey-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+39,+Abbey+Centre,+Newtownabbey,+Northern+Ireland,+BT37+9UH,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.691, 54.5922]
+      },
+      "properties": {
+        "Store No.": 554,
+        "Name": "Primark Newtownards",
+        "Street": "15-17 Regent Street",
+        "City": "Newtownards",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT23 4AD",
+        "Address": "15-17 Regent Street, Newtownards, Northern Ireland, BT23 4AD",
+        "Phone": "028 9182 1940",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Newtownards/15-17-regent-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/15-17+Regent+Street,+Newtownards,+Northern+Ireland,+BT23+4AD,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9003, 52.2429]
+      },
+      "properties": {
+        "Store No.": 555,
+        "Name": "Primark Northampton",
+        "Street": "The Grosvenor Centre",
+        "City": "Northampton",
+        "Country": "England",
+        "Zip_Code": "NN1 2EP",
+        "Address": "The Grosvenor Centre, Northampton, England, NN1 2EP",
+        "Phone": "01604 637689",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Northampton/the-grosvenor-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/The+Grosvenor+Centre,+Northampton,+England,+NN1+2EP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2974, 52.6309]
+      },
+      "properties": {
+        "Store No.": 556,
+        "Name": "Primark Norwich",
+        "Street": "11-13 Haymarket",
+        "City": "Norwich",
+        "Country": "England",
+        "Zip_Code": "NR2 1QG",
+        "Address": "11-13 Haymarket, Norwich, England, NR2 1QG",
+        "Phone": "01603 660231",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Norwich/11-13-haymarket",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11-13+Haymarket,+Norwich,+England,+NR2+1QG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1469, 52.9548]
+      },
+      "properties": {
+        "Store No.": 557,
+        "Name": "Primark Nottingham",
+        "Street": "29-41 Long Row West",
+        "City": "Nottingham",
+        "Country": "England",
+        "Zip_Code": "NG1 2BY",
+        "Address": "29-41 Long Row West, Nottingham, England, NG1 2BY",
+        "Phone": "0115 941 3920",
+        "Open Hours": "monday :- 09:00 - 18:30 | tuesday :- 09:00 - 18:30 | wednesday :- 09:00 - 18:30 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Nottingham/29-41-long-row-west",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/29-41+Long+Row+West,+Nottingham,+England,+NG1+2BY,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1126, 53.5411]
+      },
+      "properties": {
+        "Store No.": 558,
+        "Name": "Primark Oldham",
+        "Street": "Unit 10-13, Spindles Shopping Centre",
+        "City": "Oldham",
+        "Country": "England",
+        "Zip_Code": "OL1 1HD",
+        "Address": "Unit 10-13, Spindles Shopping Centre, Oldham, England, OL1 1HD",
+        "Phone": "0161 620 0080",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Oldham/unit-10-13-spindles-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+10-13,+Spindles+Shopping+Centre,+Oldham,+England,+OL1+1HD,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.3016, 54.5951]
+      },
+      "properties": {
+        "Store No.": 559,
+        "Name": "Primark Omagh",
+        "Street": "Unit 6-7, Market Street",
+        "City": "Omagh",
+        "Country": "Northern Ireland",
+        "Zip_Code": "BT78 1EH",
+        "Address": "Unit 6-7, Market Street, Omagh, Northern Ireland, BT78 1EH",
+        "Phone": "028 8225 1602",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 18:00 | sunday :- 13:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Omagh/unit-6-7-market-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+6-7,+Market+Street,+Omagh,+Northern+Ireland,+BT78+1EH,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577, 51.7519]
+      },
+      "properties": {
+        "Store No.": 560,
+        "Name": "Primark Oxford",
+        "Street": "11-12 Queen Street",
+        "City": "Oxford",
+        "Country": "England",
+        "Zip_Code": "OX1 1ET",
+        "Address": "11-12 Queen Street, Oxford, England, OX1 1ET",
+        "Phone": "01865 241850",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Oxford/11-12-queen-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11-12+Queen+Street,+Oxford,+England,+OX1+1ET,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0725, 51.4732]
+      },
+      "properties": {
+        "Store No.": 561,
+        "Name": "Primark Peckham",
+        "Street": "14-22 Rye Lane",
+        "City": "Peckham",
+        "Country": "England",
+        "Zip_Code": "SE15 5BS",
+        "Address": "14-22 Rye Lane, Peckham, England, SE15 5BS",
+        "Phone": "020 7639 6171",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 19:00 | sunday :- 12:00 - 18:00",
+        "URL": "https://www.primark.com/en-gb/stores/Peckham/14-22-rye-lane",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/14-22+Rye+Lane,+Peckham,+England,+SE15+5BS,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4291, 56.3952]
+      },
+      "properties": {
+        "Store No.": 562,
+        "Name": "Primark Perth",
+        "Street": "25-29 St Johns Centre",
+        "City": "Perth",
+        "Country": "Scotland",
+        "Zip_Code": "PH1 5UX",
+        "Address": "25-29 St Johns Centre, Perth, Scotland, PH1 5UX",
+        "Phone": "01738 624020",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Perth/25-29-st-johns-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/25-29+St+Johns+Centre,+Perth,+Scotland,+PH1+5UX,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2494, 52.574]
+      },
+      "properties": {
+        "Store No.": 563,
+        "Name": "Primark Peterborough",
+        "Street": "37-40 Bridge Street",
+        "City": "Peterborough",
+        "Country": "England",
+        "Zip_Code": "PE1 1DP",
+        "Address": "37-40 Bridge Street, Peterborough, England, PE1 1DP",
+        "Phone": "01733 343137",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Peterborough/37-40-bridge-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/37-40+Bridge+Street,+Peterborough,+England,+PE1+1DP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.143, 50.3755]
+      },
+      "properties": {
+        "Store No.": 564,
+        "Name": "Primark Plymouth",
+        "Street": "10 Cornwall Street",
+        "City": "Plymouth",
+        "Country": "England",
+        "Zip_Code": "PL1 1DE",
+        "Address": "10 Cornwall Street, Plymouth, England, PL1 1DE",
+        "Phone": "01752 227476",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Plymouth/10-cornwall-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/10+Cornwall+Street,+Plymouth,+England,+PL1+1DE,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9846, 50.7201]
+      },
+      "properties": {
+        "Store No.": 565,
+        "Name": "Primark Poole",
+        "Street": "49-55 Kingland Crescent",
+        "City": "Poole",
+        "Country": "England",
+        "Zip_Code": "BH15 1TB",
+        "Address": "49-55 Kingland Crescent, Poole, England, BH15 1TB",
+        "Phone": "01202 668 803",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Poole/49-55-kingland-crescent",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/49-55+Kingland+Crescent,+Poole,+England,+BH15+1TB,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0902, 50.7951]
+      },
+      "properties": {
+        "Store No.": 566,
+        "Name": "Primark Portsmouth",
+        "Street": "72-79 Commercial Road",
+        "City": "Portsmouth",
+        "Country": "England",
+        "Zip_Code": "PO1 1BU",
+        "Address": "72-79 Commercial Road, Portsmouth, England, PO1 1BU",
+        "Phone": "023 9281 5061",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Portsmouth/72-79-commercial-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/72-79+Commercial+Road,+Portsmouth,+England,+PO1+1BU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7093, 53.7613]
+      },
+      "properties": {
+        "Store No.": 567,
+        "Name": "Primark Preston",
+        "Street": "5-17 Fishergate",
+        "City": "Preston",
+        "Country": "England",
+        "Zip_Code": "PR1 2AD",
+        "Address": "5-17 Fishergate, Preston, England, PR1 2AD",
+        "Phone": "01772 202180",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Preston/5-17-fishergate",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/5-17+Fishergate,+Preston,+England,+PR1+2AD,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.9712, 51.4561]
+      },
+      "properties": {
+        "Store No.": 568,
+        "Name": "Primark Reading",
+        "Street": "11-19 Broad Street",
+        "City": "Reading",
+        "Country": "England",
+        "Zip_Code": "RG1 2BB",
+        "Address": "11-19 Broad Street, Reading, England, RG1 2BB",
+        "Phone": "0118 950 7855",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Reading/11-19-broad-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11-19+Broad+Street,+Reading,+England,+RG1+2BB,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9451, 52.3091]
+      },
+      "properties": {
+        "Store No.": 569,
+        "Name": "Primark Redditch",
+        "Street": "36-38 Market Place",
+        "City": "Redditch",
+        "Country": "England",
+        "Zip_Code": "B98 8AA",
+        "Address": "36-38 Market Place, Redditch, England, B98 8AA",
+        "Phone": "01527 67577",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Redditch/36-38-market-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/36-38+Market+Place,+Redditch,+England,+B98+8AA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1722, 51.5765]
+      },
+      "properties": {
+        "Store No.": 570,
+        "Name": "Primark Romford",
+        "Street": "110-112 South Street",
+        "City": "Romford",
+        "Country": "England",
+        "Zip_Code": "RM1 1RX",
+        "Address": "110-112 South Street, Romford, England, RM1 1RX",
+        "Phone": "01708 730705",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Romford/110-112-south-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/110-112+South+Street,+Romford,+England,+RM1+1RX,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3554, 53.4299]
+      },
+      "properties": {
+        "Store No.": 571,
+        "Name": "Primark Rotherham",
+        "Street": "9-13 Effingham Street",
+        "City": "Rotherham",
+        "Country": "England",
+        "Zip_Code": "S65 1AJ",
+        "Address": "9-13 Effingham Street, Rotherham, England, S65 1AJ",
+        "Phone": "01709 839 825",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Rotherham/9-13-effingham-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9-13+Effingham+Street,+Rotherham,+England,+S65+1AJ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3628, 52.2346]
+      },
+      "properties": {
+        "Store No.": 572,
+        "Name": "Primark Rushden",
+        "Street": "39 High Street",
+        "City": "Rushden",
+        "Country": "England",
+        "Zip_Code": "NN10 0QE",
+        "Address": "39 High Street, Rushden, England, NN10 0QE",
+        "Phone": "01933 353033",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Rushden/39-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/39+High+Street,+Rushden,+England,+NN10+0QE,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7964, 51.068]
+      },
+      "properties": {
+        "Store No.": 573,
+        "Name": "Primark Salisbury",
+        "Street": "4-8 Old George Mall",
+        "City": "Salisbury",
+        "Country": "England",
+        "Zip_Code": "SP1 2AG",
+        "Address": "4-8 Old George Mall, Salisbury, England, SP1 2AG",
+        "Phone": "01722 412 916",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Salisbury/4-8-old-george-mall",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/4-8+Old+George+Mall,+Salisbury,+England,+SP1+2AG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.658, 53.5881]
+      },
+      "properties": {
+        "Store No.": 584,
+        "Name": "Primark Scunthorpe",
+        "Street": "94 High Street",
+        "City": "Scunthorpe",
+        "Country": "England",
+        "Zip_Code": "DN15 6HB",
+        "Address": "94 High Street, Scunthorpe, England, DN15 6HB",
+        "Phone": "01724 281142",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Scunthorpe/94-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/94+High+Street,+Scunthorpe,+England,+DN15+6HB,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4691, 53.3811]
+      },
+      "properties": {
+        "Store No.": 585,
+        "Name": "Primark Sheffield",
+        "Street": "9-17 The Moor",
+        "City": "Sheffield",
+        "Country": "England",
+        "Zip_Code": "S1 4PF",
+        "Address": "9-17 The Moor, Sheffield, England, S1 4PF",
+        "Phone": "0114 276 8182",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Sheffield/9-17-the-moor",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/9-17+The+Moor,+Sheffield,+England,+S1+4PF,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7551, 52.7101]
+      },
+      "properties": {
+        "Store No.": 586,
+        "Name": "Primark Shrewsbury",
+        "Street": "The Darwin Centre",
+        "City": "Shrewsbury",
+        "Country": "England",
+        "Zip_Code": "SY1 1PL",
+        "Address": "The Darwin Centre, Shrewsbury, England, SY1 1PL",
+        "Phone": "01743 241751",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Shrewsbury/the-darwin-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/The+Darwin+Centre,+Shrewsbury,+England,+SY1+1PL,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5834, 51.5111]
+      },
+      "properties": {
+        "Store No.": 587,
+        "Name": "Primark Slough",
+        "Street": "252 High Street",
+        "City": "Slough",
+        "Country": "England",
+        "Zip_Code": "SL1 1JR",
+        "Address": "252 High Street, Slough, England, SL1 1JR",
+        "Phone": "01753 540 007",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Slough/252-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/252+High+Street,+Slough,+England,+SL1+1JR,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4044, 50.9025]
+      },
+      "properties": {
+        "Store No.": 588,
+        "Name": "Primark Southampton",
+        "Street": "4-14 Above Bar Street",
+        "City": "Southampton",
+        "Country": "England",
+        "Zip_Code": "SO14 7DN",
+        "Address": "4-14 Above Bar Street, Southampton, England, SO14 7DN",
+        "Phone": "02380 328366",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Southampton/4-14-above-bar-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/4-14+Above+Bar+Street,+Southampton,+England,+SO14+7DN,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.712, 51.5356]
+      },
+      "properties": {
+        "Store No.": 589,
+        "Name": "Primark Southend-on-Sea",
+        "Street": "36-44 High Street",
+        "City": "Southend-on-Sea",
+        "Country": "England",
+        "Zip_Code": "SS1 1JG",
+        "Address": "36-44 High Street, Southend-on-Sea, England, SS1 1JG",
+        "Phone": "01702 443490",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:00 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Southend-on-Sea/36-44-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/36-44+High+Street,+Southend-on-Sea,+England,+SS1+1JG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0135, 53.6472]
+      },
+      "properties": {
+        "Store No.": 590,
+        "Name": "Primark Southport",
+        "Street": "Unit 1, Marble Place Chapel Street",
+        "City": "Southport",
+        "Country": "England",
+        "Zip_Code": "PR8 1DF",
+        "Address": "Unit 1, Marble Place Chapel Street, Southport, England, PR8 1DF",
+        "Phone": "01704 548090",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Southport/unit-1-marble-place-chapel-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+1,+Marble+Place+Chapel+Street,+Southport,+England,+PR8+1DF,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1144, 52.8059]
+      },
+      "properties": {
+        "Store No.": 591,
+        "Name": "Primark Stafford",
+        "Street": "32-33 Gaolgate Street",
+        "City": "Stafford",
+        "Country": "England",
+        "Zip_Code": "ST16 2NR",
+        "Address": "32-33 Gaolgate Street, Stafford, England, ST16 2NR",
+        "Phone": "01785 254961",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Stafford/32-33-gaolgate-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/32-33+Gaolgate+Street,+Stafford,+England,+ST16+2NR,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5084, 51.4366]
+      },
+      "properties": {
+        "Store No.": 592,
+        "Name": "Primark Staines-upon-Thames",
+        "Street": "68-70 High Street",
+        "City": "Staines-upon-Thames",
+        "Country": "England",
+        "Zip_Code": "TW18 4DY",
+        "Address": "68-70 High Street, Staines-upon-Thames, England, TW18 4DY",
+        "Phone": "01784 490044",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Staines-upon-Thames/68-70-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/68-70+High+Street,+Staines-upon-Thames,+England,+TW18+4DY,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2046, 51.9036]
+      },
+      "properties": {
+        "Store No.": 593,
+        "Name": "Primark Stevenage",
+        "Street": "13-15 Queensway",
+        "City": "Stevenage",
+        "Country": "England",
+        "Zip_Code": "SG1 1DN",
+        "Address": "13-15 Queensway, Stevenage, England, SG1 1DN",
+        "Phone": "01438 748938",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Stevenage/13-15-queensway",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/13-15+Queensway,+Stevenage,+England,+SG1+1DN,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.934, 56.119]
+      },
+      "properties": {
+        "Store No.": 594,
+        "Name": "Primark Stirling",
+        "Street": "45-47 Murray Place",
+        "City": "Stirling",
+        "Country": "Scotland",
+        "Zip_Code": "FK8 1AP",
+        "Address": "45-47 Murray Place, Stirling, Scotland, FK8 1AP",
+        "Phone": "01786 433 854",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Stirling/45-47-murray-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/45-47+Murray+Place,+Stirling,+Scotland,+FK8+1AP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.153, 53.4095]
+      },
+      "properties": {
+        "Store No.": 595,
+        "Name": "Primark Stockport",
+        "Street": "42-50 Merseyway",
+        "City": "Stockport",
+        "Country": "England",
+        "Zip_Code": "SK1 1PU",
+        "Address": "42-50 Merseyway, Stockport, England, SK1 1PU",
+        "Phone": "0161 480 5987",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Stockport/42-50-merseyway",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/42-50+Merseyway,+Stockport,+England,+SK1+1PU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3145, 54.5693]
+      },
+      "properties": {
+        "Store No.": 596,
+        "Name": "Primark Stockton-on-Tees",
+        "Street": "32-34 High Street",
+        "City": "Stockton-on-Tees",
+        "Country": "England",
+        "Zip_Code": "TS18 1RA",
+        "Address": "32-34 High Street, Stockton-on-Tees, England, TS18 1RA",
+        "Phone": "01642 660 920",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Stockton-on-Tees/32-34-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/32-34+High+Street,+Stockton-on-Tees,+England,+TS18+1RA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1215, 52.6264]
+      },
+      "properties": {
+        "Store No.": 597,
+        "Name": "Primark Stoke-On-Trent",
+        "Street": "13-15 Market Square",
+        "City": "Stoke-On-Trent",
+        "Country": "England",
+        "Zip_Code": "ST1 1NU",
+        "Address": "13-15 Market Square, Stoke-On-Trent, England, ST1 1NU",
+        "Phone": "01782 281016",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Stoke-On-Trent/13-15-market-square",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/13-15+Market+Square,+Stoke-On-Trent,+England,+ST1+1NU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0086, 51.5419]
+      },
+      "properties": {
+        "Store No.": 598,
+        "Name": "Primark Stratford",
+        "Street": "85-89 Broadway",
+        "City": "Stratford",
+        "Country": "England",
+        "Zip_Code": "E15 4BQ",
+        "Address": "85-89 Broadway, Stratford, England, E15 4BQ",
+        "Phone": "020 8519 2770",
+        "Open Hours": "monday :- 09:00 - 19:00 | tuesday :- 09:00 - 19:00 | wednesday :- 09:00 - 19:00 | thursday :- 09:00 - 19:00 | friday :- 09:00 - 19:00 | saturday :- 09:00 - 19:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Stratford/85-89-broadway",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/85-89+Broadway,+Stratford,+England,+E15+4BQ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3862, 54.9047]
+      },
+      "properties": {
+        "Store No.": 599,
+        "Name": "Primark Sunderland",
+        "Street": "Unit 2, Walworth Way Galleries Shopping Centre",
+        "City": "Sunderland",
+        "Country": "England",
+        "Zip_Code": "SR1 3NQ",
+        "Address": "Unit 2, Walworth Way Galleries Shopping Centre, Sunderland, England, SR1 3NQ",
+        "Phone": "0191 514 2944",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Sunderland/unit-2-walworth-way-galleries-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+2,+Walworth+Way+Galleries+Shopping+Centre,+Sunderland,+England,+SR1+3NQ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1667, 51.3592]
+      },
+      "properties": {
+        "Store No.": 600,
+        "Name": "Primark Sutton",
+        "Street": "138 High Street",
+        "City": "Sutton",
+        "Country": "England",
+        "Zip_Code": "SM1 1LU",
+        "Address": "138 High Street, Sutton, England, SM1 1LU",
+        "Phone": "020 8643 6472",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Sutton/138-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/138+High+Street,+Sutton,+England,+SM1+1LU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.9502, 51.6204]
+      },
+      "properties": {
+        "Store No.": 601,
+        "Name": "Primark Swansea",
+        "Street": "Oxford Street",
+        "City": "Swansea",
+        "Country": "Wales",
+        "Zip_Code": "SA1 3AG",
+        "Address": "Oxford Street, Swansea, Wales, SA1 3AG",
+        "Phone": "01792 478 320",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 11:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Swansea/oxford-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Oxford+Street,+Swansea,+Wales,+SA1+3AG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7733, 51.565]
+      },
+      "properties": {
+        "Store No.": 602,
+        "Name": "Primark Swindon",
+        "Street": "Unit 1, Regent Circus",
+        "City": "Swindon",
+        "Country": "England",
+        "Zip_Code": "SN1 1QY",
+        "Address": "Unit 1, Regent Circus, Swindon, England, SN1 1QY",
+        "Phone": "01793 513707",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Swindon/unit-1-regent-circus",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+1,+Regent+Circus,+Swindon,+England,+SN1+1QY,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6783, 52.6326]
+      },
+      "properties": {
+        "Store No.": 603,
+        "Name": "Primark Tamworth",
+        "Street": "Unit 2, Ankerside Shopping Centre George Street",
+        "City": "Tamworth",
+        "Country": "England",
+        "Zip_Code": "B79 7LQ",
+        "Address": "Unit 2, Ankerside Shopping Centre George Street, Tamworth, England, B79 7LQ",
+        "Phone": "01827 62839",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Tamworth/unit-2-ankerside-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+2,+Ankerside+Shopping+Centre+George+Street,+Tamworth,+England,+B79+7LQ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1046, 51.014]
+      },
+      "properties": {
+        "Store No.": 604,
+        "Name": "Primark Taunton",
+        "Street": "Fore Street",
+        "City": "Taunton",
+        "Country": "England",
+        "Zip_Code": "TA1 1HX",
+        "Address": "Fore Street, Taunton, England, TA1 1HX",
+        "Phone": "01823 352482",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Taunton/fore-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Fore+Street,+Taunton,+England,+TA1+1HX,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.4495, 52.6766]
+      },
+      "properties": {
+        "Store No.": 605,
+        "Name": "Primark Telford",
+        "Street": "112-115 Southwater Square",
+        "City": "Telford",
+        "Country": "England",
+        "Zip_Code": "TF3 4DP",
+        "Address": "112-115 Southwater Square, Telford, England, TF3 4DP",
+        "Phone": "01952 204132",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Telford/112-115-southwater-square",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/112-115+Southwater+Square,+Telford,+England,+TF3+4DP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5518, 50.464]
+      },
+      "properties": {
+        "Store No.": 606,
+        "Name": "Primark Torquay",
+        "Street": "19-20 Union Street",
+        "City": "Torquay",
+        "Country": "England",
+        "Zip_Code": "TQ1 1ER",
+        "Address": "19-20 Union Street, Torquay, England, TQ1 1ER",
+        "Phone": "01803 292588",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Torquay/19-20-union-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/19-20+Union+Street,+Torquay,+England,+TQ1+1ER,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0451, 50.2632]
+      },
+      "properties": {
+        "Store No.": 607,
+        "Name": "Primark Truro",
+        "Street": "11-19 King Street",
+        "City": "Truro",
+        "Country": "England",
+        "Zip_Code": "TR1 2RQ",
+        "Address": "11-19 King Street, Truro, England, TR1 2RQ",
+        "Phone": "01872 261102",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:00 - 16:00",
+        "URL": "https://www.primark.com/en-gb/stores/Truro/11-19-king-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/11-19+King+Street,+Truro,+England,+TR1+2RQ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4772, 51.5465]
+      },
+      "properties": {
+        "Store No.": 608,
+        "Name": "Primark Uxbridge",
+        "Street": "60 High Street",
+        "City": "Uxbridge",
+        "Country": "England",
+        "Zip_Code": "UB8 1GA",
+        "Address": "60 High Street, Uxbridge, England, UB8 1GA",
+        "Phone": "01895 811928",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Uxbridge/60-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/60+High+Street,+Uxbridge,+England,+UB8+1GA,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4936, 53.6829]
+      },
+      "properties": {
+        "Store No.": 609,
+        "Name": "Primark Wakefield",
+        "Street": "Trinity Walk Shopping Centre",
+        "City": "Wakefield",
+        "Country": "England",
+        "Zip_Code": "WF1 1QU",
+        "Address": "Trinity Walk Shopping Centre, Wakefield, England, WF1 1QU",
+        "Phone": "01924 372197",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Wakefield/trinity-walk-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Trinity+Walk+Shopping+Centre,+Wakefield,+England,+WF1+1QU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0601, 53.4244]
+      },
+      "properties": {
+        "Store No.": 610,
+        "Name": "Primark Wallasey",
+        "Street": "Cherry Tree Shopping Centre",
+        "City": "Wallasey",
+        "Country": "England",
+        "Zip_Code": "CH44 5XU",
+        "Address": "Cherry Tree Shopping Centre, Wallasey, England, CH44 5XU",
+        "Phone": "0151 638 3015",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Wallasey/cherry-tree-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Cherry+Tree+Shopping+Centre,+Wallasey,+England,+CH44+5XU,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9824, 52.5862]
+      },
+      "properties": {
+        "Store No.": 611,
+        "Name": "Primark Walsall",
+        "Street": "Park Street",
+        "City": "Walsall",
+        "Country": "England",
+        "Zip_Code": "WS1 1LY",
+        "Address": "Park Street, Walsall, England, WS1 1LY",
+        "Phone": "01922 706690",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Walsall/park-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Park+Street,+Walsall,+England,+WS1+1LY,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5898, 53.3876]
+      },
+      "properties": {
+        "Store No.": 612,
+        "Name": "Primark Warrington",
+        "Street": "Golden Square Shopping Centre",
+        "City": "Warrington",
+        "Country": "England",
+        "Zip_Code": "WA1 1QB",
+        "Address": "Golden Square Shopping Centre, Warrington, England, WA1 1QB",
+        "Phone": "01925 632135",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Warrington/golden-square-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Golden+Square+Shopping+Centre,+Warrington,+England,+WA1+1QB,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3926, 51.6565]
+      },
+      "properties": {
+        "Store No.": 613,
+        "Name": "Primark Watford",
+        "Street": "129 High Street",
+        "City": "Watford",
+        "Country": "England",
+        "Zip_Code": "WD17 2DJ",
+        "Address": "129 High Street, Watford, England, WD17 2DJ",
+        "Phone": "01923 256441",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Watford/129-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/129+High+Street,+Watford,+England,+WD17+2DJ,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2797, 51.558]
+      },
+      "properties": {
+        "Store No.": 614,
+        "Name": "Primark Wembley",
+        "Street": "Unit 4, 484 High Road",
+        "City": "Wembley",
+        "Country": "England",
+        "Zip_Code": "HA9 7BH",
+        "Address": "Unit 4, 484 High Road, Wembley, England, HA9 7BH",
+        "Phone": "020 8795 7880",
+        "Open Hours": "monday :- 09:00 - 20:00 | tuesday :- 09:00 - 20:00 | wednesday :- 09:00 - 20:00 | thursday :- 09:00 - 20:00 | friday :- 09:00 - 20:00 | saturday :- 09:00 - 20:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Wembley/unit-4,-484-high-road",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+4,+484+High+Road,+Wembley,+England,+HA9+7BH,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.0119, 52.5244]
+      },
+      "properties": {
+        "Store No.": 615,
+        "Name": "Primark West Bromwich",
+        "Street": "Unit 27, New Square Shopping Centre",
+        "City": "West Bromwich",
+        "Country": "England",
+        "Zip_Code": "B70 7PP",
+        "Address": "Unit 27, New Square Shopping Centre, West Bromwich, England, B70 7PP",
+        "Phone": "0121 525 7852",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/West Bromwich/unit-27,-new-square-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+27,+New+Square+Shopping+Centre,+West+Bromwich,+England,+B70+7PP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.2943, 51.4759]
+      },
+      "properties": {
+        "Store No.": 616,
+        "Name": "Primark West Thurrock",
+        "Street": "Lakeside Shopping Centre",
+        "City": "West Thurrock",
+        "Country": "England",
+        "Zip_Code": "RM20 2ZP",
+        "Address": "Lakeside Shopping Centre, West Thurrock, England, RM20 2ZP",
+        "Phone": "01708 892367",
+        "Open Hours": "monday :- 09:00 - 21:00 | tuesday :- 09:00 - 21:00 | wednesday :- 09:00 - 21:00 | thursday :- 09:00 - 21:00 | friday :- 09:00 - 21:00 | saturday :- 09:00 - 21:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/West Thurrock/lakeside-shopping-centre",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Lakeside+Shopping+Centre,+West+Thurrock,+England,+RM20+2ZP,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5726, 53.5444]
+      },
+      "properties": {
+        "Store No.": 617,
+        "Name": "Primark Wigan",
+        "Street": "Market Place",
+        "City": "Wigan",
+        "Country": "England",
+        "Zip_Code": "WN1 1PX",
+        "Address": "Market Place, Wigan, England, WN1 1PX",
+        "Phone": "01942 322800",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Wigan/market-place",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Market+Place,+Wigan,+England,+WN1+1PX,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3128, 51.0603]
+      },
+      "properties": {
+        "Store No.": 618,
+        "Name": "Primark Winchester",
+        "Street": "34-38 High Street",
+        "City": "Winchester",
+        "Country": "England",
+        "Zip_Code": "SO23 9BL",
+        "Address": "34-38 High Street, Winchester, England, SO23 9BL",
+        "Phone": "01962 869456",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Winchester/34-38-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/34-38+High+Street,+Winchester,+England,+SO23+9BL,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.6093, 51.4543]
+      },
+      "properties": {
+        "Store No.": 619,
+        "Name": "Primark Woking",
+        "Street": "27-29 Commercial Way",
+        "City": "Woking",
+        "Country": "England",
+        "Zip_Code": "GU21 6XR",
+        "Address": "27-29 Commercial Way, Woking, England, GU21 6XR",
+        "Phone": "01483 762555",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Woking/27-29-commercial-way",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/27-29+Commercial+Way,+Woking,+England,+GU21+6XR,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1259, 52.5883]
+      },
+      "properties": {
+        "Store No.": 620,
+        "Name": "Primark Wolverhampton",
+        "Street": "30-34 Dudley Street",
+        "City": "Wolverhampton",
+        "Country": "England",
+        "Zip_Code": "WV1 3EY",
+        "Address": "30-34 Dudley Street, Wolverhampton, England, WV1 3EY",
+        "Phone": "01902 717656",
+        "Open Hours": "monday :- 09:00 - 17:30 | tuesday :- 09:00 - 17:30 | wednesday :- 09:00 - 17:30 | thursday :- 09:00 - 17:30 | friday :- 09:00 - 17:30 | saturday :- 09:00 - 17:30 | sunday :- 10:30 - 16:30",
+        "URL": "https://www.primark.com/en-gb/stores/Wolverhampton/30-34-dudley-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/30-34+Dudley+Street,+Wolverhampton,+England,+WV1+3EY,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.2107, 52.1917]
+      },
+      "properties": {
+        "Store No.": 621,
+        "Name": "Primark Worcester",
+        "Street": "4 High Street",
+        "City": "Worcester",
+        "Country": "England",
+        "Zip_Code": "WR1 2QE",
+        "Address": "4 High Street, Worcester, England, WR1 2QE",
+        "Phone": "01905 617861",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Worcester/4-high-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/4+High+Street,+Worcester,+England,+WR1+2QE,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9916, 53.049]
+      },
+      "properties": {
+        "Store No.": 622,
+        "Name": "Primark Wrexham",
+        "Street": "Unit 13-15 Eagles Meadow",
+        "City": "Wrexham",
+        "Country": "Wales",
+        "Zip_Code": "LL13 8DG",
+        "Address": "Unit 13-15 Eagles Meadow, Wrexham, Wales, LL13 8DG",
+        "Phone": "01978 263714",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Wrexham/unit-13-15-eagles-meadow",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/Unit+13-15+Eagles+Meadow,+Wrexham,+Wales,+LL13+8DG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.43, 51.1289]
+      },
+      "properties": {
+        "Store No.": 623,
+        "Name": "Primark Yeovil",
+        "Street": "37-39 Middle Street",
+        "City": "Yeovil",
+        "Country": "England",
+        "Zip_Code": "BA20 1LG",
+        "Address": "37-39 Middle Street, Yeovil, England, BA20 1LG",
+        "Phone": "01935 421667",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/Yeovil/37-39-middle-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/37-39+Middle+Street,+Yeovil,+England,+BA20+1LG,+UK/",
+        "Year_Opened": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0939, 53.9591]
+      },
+      "properties": {
+        "Store No.": 624,
+        "Name": "Primark York",
+        "Street": "20-22 Market Street",
+        "City": "York",
+        "Country": "England",
+        "Zip_Code": "YO1 8ST",
+        "Address": "20-22 Market Street, York, England, YO1 8ST",
+        "Phone": "01904 627506",
+        "Open Hours": "monday :- 09:00 - 18:00 | tuesday :- 09:00 - 18:00 | wednesday :- 09:00 - 18:00 | thursday :- 09:00 - 18:00 | friday :- 09:00 - 18:00 | saturday :- 09:00 - 18:00 | sunday :- 11:00 - 17:00",
+        "URL": "https://www.primark.com/en-gb/stores/York/20-22-market-street",
+        "Provider": "Primark",
+        "Updated Date": "21-03-2024",
+        "Status": "Open",
+        "Direction URL": "https://www.google.com/maps/dir/Current+Location/20-22+Market+Street,+York,+England,+YO1+8ST,+UK/",
+        "Year_Opened": 2000
+      }
+    }
+  ]
+}
